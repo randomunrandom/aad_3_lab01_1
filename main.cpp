@@ -20,7 +20,7 @@ int main() {
         cin >> A[i];
     }
     cout << endl;
-    cUot << endl;
+
     for(int i=0; i<n; i+=2) cout << "A[" << i << "]=" << A[i] << " ";
     cout << endl;
 
